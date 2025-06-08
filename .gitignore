@@ -1,0 +1,28 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+.env/
+.venv/
+
+# Ignorar arquivos de backup e logs
+*.log
+*.bak
+*.tmp
+
+# Ignorar arquivos temporários de editores
+*.swp
+*.swo
+*~
+
+# Ignorar arquivos do VSCode
+.vscode/
+
+# Ignorar arquivos exportados
+*.pdf
+*.zip
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
